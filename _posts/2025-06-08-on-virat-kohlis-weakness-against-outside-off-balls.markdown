@@ -17,19 +17,19 @@ In the following series of graphs, we compare dismissals caught outside off to t
 
 Firstly, let’s analyse how he fared against each opponent. Focussing our attention on the Test-playing nations since they are the most common teams that India faces internationally, we see that he has been caught outside off a decent amount of times against Australia, England, South Africa and Bangladesh. The statistic for the USA can be safely disregarded, as he was caught only once against them — and that too outside off.
 
-![](../_site/assets/v_kohli_analysis/Opponent.png)
+![Analysis by opponent](../_site/assets/v_kohli_analysis/Opponent.png)
 
 Next comes up one of my favourite parts which is comparing how he managed against contemporary bowlers. Considering only bowlers who dismissed Kohli at least 5 times, he was beaten the most by James Anderson, Mitchell Starc, Ben Stokes, Pat Cummins, Kagiso Rabada, Morne Morkel and Scott Boland, highlighting the success of fast bowlers exploiting hard and bouncy pitches to get him out.
 
-![](../_site/assets/v_kohli_analysis/Bowler.png)
+![Analysis by bowler](../_site/assets/v_kohli_analysis/Bowler.png)
 
 Let’s now examine how he has performed across different venues. First off, it seems pretty evident that he has struggled more in SENA (South Africa, England, New Zealand, Australia) conditions. The pitches in SENA countries are known to favour pace, and the performance of Asian batsmen on these pitches serves as a litmus test of their batting prowess.
 
-![](../_site/assets/v_kohli_analysis/Venue.png)
+![Analysis by venue](../_site/assets/v_kohli_analysis/Venue.png)
 Finally, let’s consider two of the most insightful graphs that will help us effectively conclude if Virat had a weakness facing outside off deliveries.
 
-![](../_site/assets/v_kohli_analysis/Year.png)
-![](../_site/assets/v_kohli_analysis/Format.png)
+![Analysis by year](../_site/assets/v_kohli_analysis/Year.png)
+![Analysis by format](../_site/assets/v_kohli_analysis/Format.png)
 
 Right off the bat, we can see that he had developed that weakness only during the tail end of his career particularly in Test cricket. The figures seem to be minimal in ODIs and T20Is from 2008 till 2023, with spikes in 2018 and 2021. This seems to explain a lot. A world-class batsman had suddenly been dismissed by more than a few good-length deliveries outside the off stump.
 
